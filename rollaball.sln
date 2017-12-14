@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rollaball", "Assembly-CSharp-firstpass.csproj", "{5C9F7167-8062-74F0-158A-3D4EACB6196C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rollaball", "Assembly-CSharp.csproj", "{5C43F08C-EBF0-B659-5893-951257B2984E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rollaball", "Assembly-CSharp-Editor-firstpass.csproj", "{5E14CA37-443A-B0BF-E565-0CECC7CE202C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9F7167-8062-74F0-158A-3D4EACB6196C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9F7167-8062-74F0-158A-3D4EACB6196C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9F7167-8062-74F0-158A-3D4EACB6196C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9F7167-8062-74F0-158A-3D4EACB6196C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C43F08C-EBF0-B659-5893-951257B2984E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C43F08C-EBF0-B659-5893-951257B2984E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C43F08C-EBF0-B659-5893-951257B2984E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C43F08C-EBF0-B659-5893-951257B2984E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E14CA37-443A-B0BF-E565-0CECC7CE202C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E14CA37-443A-B0BF-E565-0CECC7CE202C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E14CA37-443A-B0BF-E565-0CECC7CE202C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E14CA37-443A-B0BF-E565-0CECC7CE202C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
